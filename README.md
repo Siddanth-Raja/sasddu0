@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sasddu0
-- 👀 I’m interested in computer science + cybersecurity
+- 👀 I’m interested in computer science and cybersecurity
 - 🌱 I’m currently learning frontend
 - 💞️ If someone wants to start a project email me!
 - 📫 How to reach me (email: siddu123raja@gmail.com)
